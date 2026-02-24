@@ -7,7 +7,7 @@ It provides insights into Netflix's content library including movies and TV show
 To analyze and visualize Netflix’s content data to uncover trends in distribution, growth, genres, ratings, and country contributions through an interactive Power BI dashboard.
 
 ## Dataset used 
-<a href="https://github.com/prachi-lp/Data-Analytics--Netflix-Dashboard/blob/main/Netflix%20Titles%20Dashboard.xlsx">Dataset</a>
+<a href="https://github.com/prachi-lp/Data-Analytics--Netflix-Dashboard/blob/main/Netflix%20Titles%20Dashboard.xlsx"> Dataset</a>
 
 ## Questions (KPIs)
 - What is the total number of titles available on Netflix?
@@ -22,7 +22,7 @@ To analyze and visualize Netflix’s content data to uncover trends in distribut
 - What is the year with the maximum content addition?
 
 ## Dashboard Interaction 
-<a herf="https://github.com/prachi-lp/Data-Analytics--Netflix-Dashboard/blob/main/netflix%20dashboard.pdf">view Dashboard</a>
+<a herf="https://github.com/prachi-lp/Data-Analytics--Netflix-Dashboard/blob/main/netflix%20dashboard.pdf"> View Dashboard</a>
 
 ## Process
 - Imported the Netflix dataset into Power BI and reviewed its structure.
