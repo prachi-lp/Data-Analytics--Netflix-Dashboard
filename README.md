@@ -21,7 +21,8 @@ To analyze and visualize Netflix’s content data to uncover trends in distribut
 - Which country contributes the highest number of titles based on KPI metrics?
 - What is the year with the maximum content addition?
 
--Dashboard Interaction <a herf="https://github.com/prachi-lp/Data-Analytics--Netflix-Dashboard/blob/main/netflix%20dashboard.pdf">view Dashboard</a>
+## Dashboard Interaction 
+<a herf="https://github.com/prachi-lp/Data-Analytics--Netflix-Dashboard/blob/main/netflix%20dashboard.pdf">view Dashboard</a>
 
 ## Process
 - Imported the Netflix dataset into Power BI and reviewed its structure.
